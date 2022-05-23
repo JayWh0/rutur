@@ -3074,7 +3074,7 @@ local AmongDripV = 0
 GUNMODEL.Handle.Anchored = false
 GunWeld.Part0 = CloneChar["Right Arm"]
 for i = 1,5 do
-	chat("Say Hi To Demise.")
+	chat("")
 end
 LoadingGui:Destroy()
 while true do
